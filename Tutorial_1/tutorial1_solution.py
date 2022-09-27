@@ -105,7 +105,7 @@ def solve_P(A: np.ndarray):
     """Solve for P using A.
 
     Args:
-        A (np.ndarray): Matrix B (2N, 12).
+        A (np.ndarray): Matrix A (2N, 12).
 
     Returns:
         np.ndarray: Matrix P (3x4).
